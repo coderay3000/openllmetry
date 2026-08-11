@@ -1,3 +1,9 @@
+## v0.62.3 (2026-08-10)
+
+### Fix
+
+- **litellm**: register instrumentation in commitizen version files (#4408)
+
 ## v0.62.2 (2026-08-09)
 
 ### Fix
